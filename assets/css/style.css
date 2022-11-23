@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/kewal.png") top right no-repeat;
+  background: #040404 url("../img/kd.png") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
